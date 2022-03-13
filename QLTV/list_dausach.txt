@@ -1,0 +1,162 @@
+DPTK
+Dau Pha Thuong Khung
+26500
+Thien Tam
+2011
+Di Gioi
+AHXD
+Anh Hung Xa Dieu
+4260
+Kim Dung
+2002
+Kiem Hiep
+BHK
+Bich Huyet Kiem
+4200
+Kim Dung
+2000
+Kiem Hiep
+TDDH
+Than Dieu Dai Hiep
+5640
+Kim Dung
+2005
+Kiem Hiep
+TLBB
+Thien Long Bat Bo
+8460
+Kim Dung
+2004
+Kiem Hiep
+MSTQN
+Mao Son Troc Quy Nhan
+5000
+Thanh Tu
+2018
+Kinh Di
+TSQ
+Tho San Quy
+2355
+Than Hoa
+2015
+Kinh Di
+NGRT
+Noi Giong Rong Tien
+8900
+Viet Dang
+2020
+Lich Su
+TCTT
+Tran Chien Trieu Tran
+5430
+Vu Phien 
+2015
+Lich Su
+TTH
+Tranh Thien Ha
+12650
+Linh Nguyet
+2005
+Lich Su
+NV1
+Ngu Van 1
+238
+Nxb Giao Duc
+2017
+Sach Giao Khoa
+TV1
+Tieng Viet Lop 1
+120
+Nxb Giao Duc
+2002
+Sach Giao Khoa
+GBT1
+Giai Toan 1
+2895
+Nxb Giao Duc
+2020
+Sach Tham Khao
+DLDL
+Dau La Dai Luc
+23450
+Cuu Vy
+2008
+Tien Hiep
+NMTD
+Nhat Mong Tieu Dao
+1009
+Winter Tales
+2018
+Tien Hiep
+NNTT
+Nhat No Thanh Tien 
+4850
+Trang Trang 
+2014
+Tien Hiep
+TDK
+Tay Du Ky
+8200
+Ngo Thua An
+1986
+Tien Hiep
+VYDC
+Vu Yeu Dai Chien
+4800
+Vu Than
+2000
+Tien Hiep
+DPTT
+Dong Phuong Than Thu
+8400
+Dinh Uy
+2018
+Trinh Tham
+VMTL
+Viet Ma Tan Luc
+2500
+Nam Viet
+2017
+Trinh Tham
+MB
+Mat Biec
+234
+Nguyen Ngoc Anh
+2004
+Truyen Ngan
+VN
+Vo Nhat
+200
+Kim Lan
+1946
+Truyen Ngan
+7VNR
+7 Vien Ngoc Rong
+5800
+Akira Toriyama
+1997
+Truyen Tranh
+DRM
+Doraemon
+26500
+Fujio
+1970
+Truyen Tranh
+NRT
+Naruto
+79098
+Masashi
+2005
+Truyen Tranh
+OPM
+One Punch Man
+2000
+One Murata
+2014
+Truyen Tranh
+CONAN
+Tham Tu Conan
+15900
+Aoyama Sogho
+1994
+Truyen Tranh

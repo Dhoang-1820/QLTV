@@ -1,0 +1,243 @@
+0
+5
+DPTK-0
+0
+Ngan 1 Ke 1
+DPTK-1
+0
+Ngan 1 Ke 2
+DPTK-2
+0
+Ngan 1 Ke 1
+DPTK-3
+0
+Ngan 1 Ke 1
+DPTK-4
+0
+Ngan 2 Ke 2
+7
+4
+AHXD-0
+0
+Ngan 1 Ke 2
+AHXD-1
+1
+Ngan 1 Ke 2
+AHXD-2
+1
+Ngan 1 Ke 2
+AHXD-3
+0
+Ngan 2 Ke 2
+5
+3
+BHK-0
+0
+Ngan 3 Ke 3
+BHK-1
+1
+Ngan 2 Ke 2
+BHK-2
+0
+Ngan 2 Ke 4
+1
+4
+TDDH-0
+1
+Ngan 2 Ke 1
+TDDH-1
+0
+Ngan 2 Ke 1
+TDDH-2
+0
+Ngan 2 Ke 2
+TDDH-3
+0
+Ngan 2 Ke 3
+0
+5
+TLBB-0
+0
+Ngan 1 Ke 4
+TLBB-1
+0
+Ngan 3 Ke 3
+TLBB-2
+0
+Ngan 3 Ke 2
+TLBB-3
+0
+Ngan 2 Ke 4
+TLBB-4
+0
+Ngan 2 Ke 4
+0
+1
+MSTQN-0
+0
+Ngan 4 Ke 1
+2
+4
+TSQ-0
+0
+Ngan 2 Ke 2
+TSQ-1
+0
+Ngan 1 Ke 2
+TSQ-2
+0
+Ngan 2 Ke 3
+TSQ-3
+1
+Ngan 2 Ke 3
+0
+2
+NGRT-0
+0
+Ngan 4 Ke 3
+NGRT-1
+0
+Ngan 3
+0
+0
+0
+4
+TTH-0
+0
+Ngan 2 Ke 3
+TTH-1
+0
+Ngan 2 Ke 3
+TTH-2
+0
+Ngan 2 Ke 3
+TTH-3
+0
+Ngan 2 Ke 4
+0
+3
+NV1-0
+0
+Ngan 2 Ke 2
+NV1-1
+0
+Ngan 3 Ke 2
+NV1-2
+0
+Ngan 1 Ke 3
+1
+4
+TV1-0
+0
+Ngan 2 Ke 3
+TV1-1
+0
+Ngan 2 Ke 4
+TV1-2
+0
+Ngan 2 Ke 3
+TV1-3
+0
+Ngan 1 Ke 2
+0
+0
+0
+1
+DLDL-0
+0
+Ngan 1 Ke 1
+0
+0
+0
+0
+2
+3
+TDK-0
+0
+Ngan 2 Ke 2
+TDK-1
+0
+Ngan 3 Ke 2
+TDK-2
+0
+Ngan 3 Ke 3
+0
+0
+0
+0
+0
+0
+1
+1
+MB-0
+1
+Ngan 2 Ke 2
+0
+0
+0
+3
+7VNR-0
+0
+Ngan 3 Ke 2
+7VNR-1
+0
+Ngan 3 Ke 2
+7VNR-2
+0
+Ngan 1 Ke 1
+3
+4
+DRM-0
+1
+Ngan 1 Ke 1
+DRM-1
+1
+Ngan 1 Ke 1
+DRM-2
+0
+Ngan 1 Ke 2
+DRM-3
+0
+Ngan 2 Ke 2
+0
+4
+NRT-0
+0
+Ngan 1 Ke 1
+NRT-1
+0
+Ngan 2 Ke 2
+NRT-2
+0
+Ngan 3 Ke 3
+NRT-3
+0
+Ngan 4 Ke 3
+0
+3
+OPM-0
+0
+Ngan 2 Ke 2
+OPM-1
+0
+Ngan 2 Ke 4
+OPM-2
+0
+Ngan 2 Ke 2
+0
+5
+CONAN-0
+0
+Ngan 2 Ke 2
+CONAN-1
+0
+Ngan 2 Ke 2
+CONAN-2
+0
+Ngan 3 Ke 4
+CONAN-3
+0
+Ngan 3 Ke 4
+CONAN-4
+0
+Ngan 3 Ke 4

@@ -1,0 +1,66 @@
+12
+10685
+Tran Van
+Quang
+0
+1
+10704
+Tran Van
+Vinh
+1
+1
+10747
+Pham Van
+Tuan
+1
+1
+10763
+Pham Van
+Tai
+1
+1
+10783
+Le Tuan
+Tu
+1
+1
+12178
+Phan Van
+Duc
+1
+1
+16456
+Tran Huyen
+Trang
+1
+0
+16707
+Pham Quang
+Nam
+1
+1
+16756
+Nguyen Nhu
+Hong
+1
+0
+19946
+Phan Minh
+Vuong 
+1
+1
+39625
+Do Huy
+Hoang
+1
+1
+39648
+Bui Tien
+Binh
+1
+1
+39668
+Le Thi
+Nhung
+1
+0
